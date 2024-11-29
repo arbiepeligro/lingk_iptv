@@ -1,1 +1,1 @@
-# lingk-iptv.github.com
+# lingk-iptv/
