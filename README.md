@@ -1,6 +1,8 @@
-# Lingk IPTV "Watch Free" - Step-by-Step Guide
+# Lingk IPTV | Watch Free
 
-Lingk IPTV "Watch Free" offers a wide variety of live TV channels, including popular ones like TV5 HD, TELERADYO SERBESYO, ANC, PBO, CINEMO, MYX, MTV LIVE (USA), and LOVE NATURE 4K, all accessible at no cost. Follow these easy steps to start watching your favorite channels instantly:
+## Step-by-Step Guide
+
+Lingk IPTV "Watch Free" offers a wide variety of live TV channels, including popular ones like TV5 HD, TELERADYO SERBESYO, ANC, PBO, CINEMO, MYX, MTV LIVE (USA), LOVE NATURE 4K and more, all accessible at no cost. Follow these easy steps to start watching your favorite channels instantly:
 
 ---
 
