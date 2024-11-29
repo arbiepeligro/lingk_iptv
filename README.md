@@ -1,4 +1,5 @@
-!![Alt text](https://www.canva.com/design/DAGX5bymPDE/SuMFWZmd_330ms0T-PsJKQ/edit?utm_content=DAGX5bymPDE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+
 
 # Lingk IPTV | Watch Free
 
