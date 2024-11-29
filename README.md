@@ -31,6 +31,26 @@ Lingk IPTV "Watch Free" offers a wide variety of live TV channels, including pop
 ### 4. **Scan the Link:**
    - After entering the link, tap the "Scan" or "Load Playlist" button.
    - The IPTV player will connect to the server and load the list of available channels.
+   - <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>QR Code Scanner</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>QR Code Scanner</h1>
+    <div>
+        <video id="preview" width="100%" height="auto" style="border: 1px solid black;"></video>
+    </div>
+    <div>
+        <p>Scanned QR Code: <span id="result"></span></p>
+    </div>
+    <script src="https://unpkg.com/qr-scanner/qr-scanner.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
 
 ### 5. **Enjoy Your Channels:**
    - Once the playlist is successfully loaded, you will have access to a wide range of channels like:
