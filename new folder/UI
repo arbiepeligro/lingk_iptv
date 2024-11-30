@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IPTV Player</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/video.js/7.14.3/video-js.min.css" rel="stylesheet">
+</head>
+<body>
+    <h1>IPTV Player</h1>
+    <video id="iptvPlayer" class="video-js vjs-default-skin" controls autoplay>
+        <source src="YOUR_M3U_STREAM_URL" type="application/x-mpegURL">
+        Your browser does not support HTML5 video.
+    </video>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/video.js/7.14.3/video.min.js"></script>
+    <script>
+        var player = videojs('iptvPlayer');
+    </script>
+</body>
+</html>
