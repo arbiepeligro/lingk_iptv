@@ -1,12 +1,10 @@
-![](https://raw.githubusercontent.com/arbiepeligro/lingk_iptv/refs/heads/main/logo.png)
-
 ![](https://raw.githubusercontent.com/arbiepeligro/lingk_iptv/refs/heads/main/banner.png)
 
 # Lingk IPTV | Watch Free
 
 ## Step-by-Step Guide
 
-**Lingk IPTV** offers a wide variety of live TV channels, including popular ones like **TV5 HD, TELERADYO SERBESYO, ANC, PBO, CINEMO, MYX, MTV LIVE (USA), LOVE NATURE 4K and more**, all accessible at no cost. Follow these easy steps to start watching your favorite channels instantly:
+**Lingk IPTV** offers a wide variety of live TV channels, including popular ones like **TV5 HD, TELERADYO SERBESYO, ANC, PBO, CINEMO, MYX, MTV LIVE (USA), LOVE NATURE 4K and more** , all accessible at no cost. Follow these easy steps to start watching your favorite channels instantly:
 
 ---
 
