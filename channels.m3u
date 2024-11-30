@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0, Lingk InFo Channel
+https://raw.githubusercontent.com/arbiepeligro/lingk_iptv/refs/heads/main/Hi%20I'm%20Arbie%20Peligro_20241130_111906_0000.png
 #EXTINF:-1,A2Z
 https://tv-noyzkie.serv00.net/streams/A2Z.m3u8
 #EXTINF:-1,TV5 HD
