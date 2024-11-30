@@ -52,7 +52,16 @@
 
 ## Legal
 
-No video files are stored in this repository. The repository simply contains user-submitted links to publicly available video stream URLs, which to the best of our knowledge have been intentionally made publicly by the copyright holders. If any links in these playlists infringe on your rights as a copyright holder, they may be removed by sending a [pull request](https://github.com/lingk-iptv/iptv/pulls) or opening an [issue](https://github.com/link-iptv/iptv/issues/new?assignees=freearhey&labels=removal+request&template=--removal-request.yml&title=Remove%3A+). However, note that we have **no control** over the destination of the link, and just removing the link from the playlist will not remove its contents from the web. Note that linking does not directly infringe copyright because no copy is made on the site providing the link, and thus this is **not** a valid reason to send a DMCA notice to GitHub. To remove this content from the web, you should contact the web host that's actually hosting the content (**not** GitHub, nor the maintainers of this repository).
+**Lingk IPTV** is an open-source software project designed to facilitate the management, organization, and streaming of IPTV services. The software allows users to integrate, manage, and interact with IPTV streams, but does not host or provide any IPTV content itself. Users of Lingk IPTV are responsible for ensuring that they comply with all applicable local, national, and international laws and regulations when using the software, particularly in regard to content distribution, copyright laws, and intellectual property rights.
+
+Lingk IPTV is licensed under the [insert license type, e.g., MIT License, GPL, etc.], which permits users to freely use, modify, and distribute the software under the terms of the license. However, the use of this software to access or distribute unauthorized or copyrighted content is prohibited. The software is intended only for lawful activities, and users must ensure they have the appropriate rights and permissions for any IPTV content they stream or access using Lingk IPTV.
+
+The contributors and maintainers of Lingk IPTV make no representations or warranties regarding the accuracy, legality, or reliability of the content streamed via the software. Lingk IPTV is provided "as-is," and the project maintainers disclaim any responsibility for damages, losses, or other legal consequences that may arise from its use.
+
+By using Lingk IPTV, you agree to abide by all relevant laws and the terms of this legal description. The maintainers of this project are not responsible for any third-party services, content, or applications integrated with the software. All external services and content are used at the user's own risk.
+
+**Important**: Lingk IPTV is not responsible for any illegal use or misuse of the software. Users are encouraged to respect intellectual property rights and only stream content from legitimate and authorized sources.
+
 
 ## License
 
