@@ -25,7 +25,9 @@
 ### 3. **Enter the IPTV Link:**
    - Within the IPTV player, find the section where you can input an M3U link (this is typically under "Add Playlist" or "Manage Playlist").
    - Enter the IPTV link provided by Lingk IPTV (make sure to copy it correctly without any spaces).
-
+     
+     '''   https://raw.githubusercontent.com/arbiepeligro/lingk_iptv/refs/heads/main/channels.m3u
+     '''
 
 ### 4. **Scan the Link:**
    - After entering the link, tap the "Scan" or "Load Playlist" button.
@@ -65,4 +67,4 @@ By using Lingk IPTV, you agree to abide by all relevant laws and the terms of th
 
 Lingk IPTV is licensed under the [ MIT License](LICENSE), which permits users to freely use, modify, and distribute the software under the terms of the license. However, the use of this software to access or distribute unauthorized or copyrighted content is prohibited. The software is intended only for lawful activities, and users must ensure they have the appropriate rights and permissions for any IPTV content they stream or access using Lingk IPTV.
 
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)]
+![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)
