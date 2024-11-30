@@ -27,8 +27,6 @@
 ### 3. **Enter the IPTV Link:**
    - Within the IPTV player, find the section where you can input an M3U link (this is typically under "Add Playlist" or "Manage Playlist").
    - Enter the IPTV link provided by Lingk IPTV (make sure to copy it correctly without any spaces).
-   - or scan the QR Code on your TV Screens
-https://qrscanner.net/
 
 
 ### 4. **Scan the Link:**
@@ -52,4 +50,4 @@ https://qrscanner.net/
 
 ## Enjoy Lingk IPTV
 
-That's it! You can now enjoy Lingk IPTV’s free, high-quality content, available to stream on any compatible device. Whether you're in the mood for news, music, nature shows, or movies, Lingk IPTV has something for everyone!
+**That's it!** You can now enjoy Lingk IPTV’s free, high-quality content, available to stream on any compatible device. Whether you're in the mood for news, music, nature shows, or movies, Lingk IPTV has something for everyone!
