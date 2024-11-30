@@ -54,8 +54,6 @@
 
 **Lingk IPTV** is an open-source software project designed to facilitate the management, organization, and streaming of IPTV services. The software allows users to integrate, manage, and interact with IPTV streams, but does not host or provide any IPTV content itself. Users of Lingk IPTV are responsible for ensuring that they comply with all applicable local, national, and international laws and regulations when using the software, particularly in regard to content distribution, copyright laws, and intellectual property rights.
 
-Lingk IPTV is licensed under the [insert license type, e.g., MIT License, GPL, etc.], which permits users to freely use, modify, and distribute the software under the terms of the license. However, the use of this software to access or distribute unauthorized or copyrighted content is prohibited. The software is intended only for lawful activities, and users must ensure they have the appropriate rights and permissions for any IPTV content they stream or access using Lingk IPTV.
-
 The contributors and maintainers of Lingk IPTV make no representations or warranties regarding the accuracy, legality, or reliability of the content streamed via the software. Lingk IPTV is provided "as-is," and the project maintainers disclaim any responsibility for damages, losses, or other legal consequences that may arise from its use.
 
 By using Lingk IPTV, you agree to abide by all relevant laws and the terms of this legal description. The maintainers of this project are not responsible for any third-party services, content, or applications integrated with the software. All external services and content are used at the user's own risk.
@@ -65,8 +63,6 @@ By using Lingk IPTV, you agree to abide by all relevant laws and the terms of th
 
 ## License
 
-# Lingk IPTV
+Lingk IPTV is licensed under the [ MIT License](LICENSE), which permits users to freely use, modify, and distribute the software under the terms of the license. However, the use of this software to access or distribute unauthorized or copyrighted content is prohibited. The software is intended only for lawful activities, and users must ensure they have the appropriate rights and permissions for any IPTV content they stream or access using Lingk IPTV.
 
-Lingk IPTV is licensed under the [! MIT License](LICENSE), which permits users to freely use, modify, and distribute the software under the terms of the license. However, the use of this software to access or distribute unauthorized or copyrighted content is prohibited. The software is intended only for lawful activities, and users must ensure they have the appropriate rights and permissions for any IPTV content they stream or access using Lingk IPTV.
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](LICENSE)
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)]
