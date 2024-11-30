@@ -1,10 +1,21 @@
 ![](https://raw.githubusercontent.com/arbiepeligro/lingk_iptv/refs/heads/main/banner.png)
 
-# Lingk IPTV | Watch Free
+# Lingk IPTV | Watch Free with no Subscription
 
-## Step-by-Step Guide
+Lingk IPTV is a free IPTV service that allows users to watch live TV channels over the internet, without the need for a subscription. It offers a variety of channels, including news, sports, entertainment, and international content.
 
-**Lingk IPTV** offers a wide variety of live TV channels, including popular ones like **TV5 HD, TELERADYO SERBESYO, ANC, PBO, CINEMO, MYX, MTV LIVE (USA), LOVE NATURE 4K and more** , all accessible at no cost. Follow these easy steps to start watching your favorite channels instantly:
+## Features
+
+- **Free Access**: Watch TV channels without any subscription or hidden fees.
+- **Wide Range of Channels**: Access to channels across different genres such as news, sports, movies, entertainment, and more.
+- **Live TV Streaming**: Enjoy real-time TV shows, similar to traditional cable or satellite TV, via your internet connection.
+- **Multiple Device Compatibility**: Watch on smartphones, tablets, computers, and smart TVs.
+- **No Cable/Satellite Required**: No installation of traditional cable or satellite infrastructure needed.
+- **Variety of Genres**: Offers channels from a wide range of categories, including international channels.
+
+---
+
+**Disclaimer**: Streaming content from unauthorized sources may violate copyright laws in your region. Always ensure that you’re using IPTV services in compliance with local regulations.
 
 ---
 
