@@ -1,0 +1,169 @@
+#EXTM3U
+#EXTINF:-1,TV5
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_hd.mpd
+#EXTINF:-1,A2Z
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_a2z.mpd
+#EXTINF:-1,GMA Pinoy TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-abscbn-gma-x7-dash-abscbnono/7c693236-e0c1-40a3-8bd0-bb25e43f5bfc/index.mpd
+#EXTINF:-1,TFC
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-tfcasia-dash-abscbnono/7045bc3c-9492-42d4-974e-a3b217776e57/index.mpd
+#EXTINF:-1,PBO
+https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/pbo_sd.mpd
+#EXTINF:-1,Sari-Sari
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_sari_sari_sd.mpd
+#EXTINF:-1,Viva Cinema
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/viva_sd.mpd
+#EXTINF:-1,Cinema One
+https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
+#EXTINF:-1,CineMo!
+https://cinemo-abscbn-ono.amagi.tv/playlist.m3u8
+#EXTINF:-1,ANC
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-anc-global-dash-abscbnono/index.mpd
+#EXTINF:-1,TVN Movies Pinoy
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_tvnmovie.mpd
+#EXTINF:-1,TMC
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_tagalogmovie.mpd
+#EXTINF:-1,Animax
+https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
+#EXTINF:-1,Cartoon Network
+https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_cartoonnetworkhd.mpd
+#EXTINF:-1,DreamWorks Tagalized
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_dreamworktag.mpd
+#EXTINF:-1,DreamWorks
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_dreamworks_hd1.mpd
+#EXTINF:-1,Moonbug Kids
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_moonbug_kids_sd.mpd
+#EXTINF:-1,Nickelodeon
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default_primary.mpd
+#EXTINF:-1,Nick Jr
+https://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default_primary.mpd
+#EXTINF:-1,HBO
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbohd.mpd
+#EXTINF:-1,HBO Family
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbofam.mpd
+#EXTINF:-1,HBO Signature
+https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd
+#EXTINF:-1,HBO Hits
+https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hbohits.mpd
+#EXTINF:-1,Cinemax
+https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_cinemax.mpd
+#EXTINF:-1,Hits Now
+https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hitsnow.mpd
+#EXTINF:-1,Hits
+https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/hits_hd1.mpd
+#EXTINF:-1,Hits Movies
+https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_hitsmovies.mpd
+#EXTINF:-1,AXN
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_axn_sd.mpd
+#EXTINF:-1,Warner TV
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_warnertvhd.mpd
+#EXTINF:-1,Rock Action
+https://tglmp04.akamaized.net/out/v1/421a3cd3bdcd492f8f4b5efb2363ed2c/manifest.mpd
+#EXTINF:-1,Rock Entertainment
+https://tglmp02.akamaized.net/out/v1/621a7089e63144e4be7891cd9bfb10e2/manifest.mpd
+#EXTINF:-1,Thrill
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_thrill_sd.mpd
+#EXTINF:-1,Lotus Macau
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/lotusmacau_prd.mpd
+#EXTINF:-1,IBC13
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/ibc13_sd.mpd
+#EXTINF:-1,PTV4
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_ptv4_sd.mpd
+#EXTINF:-1,DepEd Channel
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/depedch_sd.mpd
+#EXTINF:-1,Buko Channel
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_buko_sd.mpd
+#EXTINF:-1,Knowledge Channel
+https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_knowledgechannel.mpd
+#EXTINF:-1,Bilyonaryo Channel
+https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/bilyonaryoch.mpd
+#EXTINF:-1,TVUP
+https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/tvup_prd.mpd
+#EXTINF:-1,TV Maria
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/tvmaria_prd.mpd
+#EXTINF:-1,True FM TV
+https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/truefm_tv.mpd
+#EXTINF:-1,Teleradyo Serbisyo
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-teleradyo-dash-abscbnono/index.mpd
+#EXTINF:-1,MYX
+https://myxnola-abscbn-ono.amagi.tv/index.m3u8
+#EXTINF:-1,TVN
+https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_tvnpre.mpd
+#EXTINF:-1,RPTV
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cnn_rptv_prod_hd.mpd
+#EXTINF:-1,UAAP Varsity
+https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/cg_uaap_cplay_sd.mpd
+#EXTINF:-1,PBA Rush
+https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_pbarush_hd1.mpd
+#EXTINF:-1,NBA TV Philippines
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/pl_nba.mpd
+#EXTINF:-1,One Sports Plus
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_onesportsplus_hd1.mpd
+#EXTINF:-1,One PH
+https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/oneph_sd.mpd
+#EXTINF:-1,One Sports
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_onesports_hd.mpd
+#EXTINF:-1,One News
+https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/onenews_hd1.mpd
+#EXTINF:-1,TAP TV
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_taptv_sd.mpd
+#EXTINF:-1,Tap Edge
+https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_tapedge.mpd
+#EXTINF:-1,Tap Sports
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
+#EXTINF:-1,Tap Movies
+https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_popupppvhd.mpd
+#EXTINF:-1,Tap Action Flix
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapactionflix_hd1.mpd
+#EXTINF:-1,CCTV4
+https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_cctv4.mpd
+#EXTINF:-1,Arirang Korea
+https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/arirang_sd.mpd
+#EXTINF:-1,BBC Earth
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_bbcearth_hd1.mpd
+#EXTINF:-1,Discovery Channel
+https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_discovery.mpd
+#EXTINF:-1,KBS World
+https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_kbsworld.mpd
+#EXTINF:-1,Kix
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/kix_hd1.mpd
+#EXTINF:-1,Lifetime
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_lifetime.mpd
+#EXTINF:-1,HGTV
+https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/hgtv_hd1.mpd
+#EXTINF:-1,Asian Food Network
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/asianfoodnetwork_sd.mpd
+#EXTINF:-1,Travel Channel
+https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/travel_channel_sd.mpd
+#EXTINF:-1,Tech Storm
+https://cdn08jtedge.indihometv.com/dassdvr/133/techstorm/manifest.mpd
+#EXTINF:-1,Crime+Investigation
+https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_crime_invest.mpd
+#EXTINF:-1,Al Jazeera
+https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_aljazeera.mpd
+#EXTINF:-1,BBC World News
+https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/bbcworld_news_sd.mpd
+#EXTINF:-1,CNA
+https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_channelnewsasia.mpd
+#EXTINF:-1,ABC Australia
+https://qp-pldt-live-grp-10-prod.akamaized.net/out/u/dr_abc_aus.mpd
+#EXTINF:-1,SPOTV
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
+#EXTINF:-1,SPOTV2
+https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
+#EXTINF:-1,Premier Sports
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_premiersports_hd1.mpd
+#EXTINF:-1,Premier Sports 2
+https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_premiertennishd.mpd
+#EXTINF:-1,WWE Network
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_primary.mpd
+#EXTINF:-1,History
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_historyhd.mpd
+#EXTINF:-1,Animal Planet
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_animal_planet_sd.mpd
+#EXTINF:-1,Fashion TV
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_fashiontvhd.mpd
+#EXTINF:-1,Food Network
+https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_foodnetwork_hd1.mpd
+#EXTINF:-1,Bloomberg
+https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/bloomberg_sd.mpd
