@@ -489,6 +489,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d3609cd6a6c78d767
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6899a37b88b269472ea4b/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ca6899a37b88b269472ea4b&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=330&terminate=false&userId=
 #EXTINF:-1 tvg-name="MTV Global" tvg-logo="https://i.imgur.com/n2BoU7Q.png" group-title="MUSIC",MTV Global
 http://37.18.239.36:8888/MTV_Adria/index.m3u8
+#EXTINF:-1 tvg-name="MTV Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/MTV_Live_2021_logo.svg" group-title="MUSIC", MTV Live
+http://190.102.246.93:9005/play/a01p
 #EXTINF:-1 tvg-name="Pluto TV MTV Classic" tvg-logo="https://i.imgur.com/NPavpts.png" group-title="MUSIC",Pluto TV MTV Classic
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91b7ea86ee60009d89e75/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 #EXTINF:-1 tvg-name="Pluto TV MTV Latino" tvg-logo="https://i.imgur.com/mioQAZS.png" group-title="MUSIC",Pluto TV MTV Latino
